@@ -1,0 +1,146 @@
+[
+    {
+        "word": "Amble",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To walk or move at a slow, relaxed pace.",
+        "hindi_meaning": "धीमी चाल, धीरे-धीरे चलना",
+        "mnemonic": "Amble sounds like 'ramble,' as in taking a leisurely walk without haste.",
+        "visual_representation": "Picture someone strolling through a park, enjoying the scenery without rushing, symbolizing ambling.",
+        "example_sentence": "They amble along the beach, enjoying the sunset."
+    },
+    {
+        "word": "Bustle",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To move in an energetic or noisy manner; excited activity and movement.",
+        "hindi_meaning": "हलचल, चहल-पहल",
+        "mnemonic": "Bustle sounds like 'hustle,' indicating quick, busy movement.",
+        "visual_representation": "Picture a crowded marketplace with people moving quickly and busily in all directions, symbolizing bustle.",
+        "example_sentence": "The kitchen was filled with the bustle of cooks preparing the evening's meals."
+    },
+    {
+        "word": "Cogent",
+        "part_of_speech": "Adjective",
+        "definition": "Clear, logical, and convincing.",
+        "hindi_meaning": "प्रभावशाली, तर्कसंगत",
+        "mnemonic": "Cogent sounds like 'co-gent,' as in being gentle yet persuasive in making a point.",
+        "visual_representation": "Picture a lawyer presenting a clear and persuasive argument in court, symbolizing cogency.",
+        "example_sentence": "The defense attorney's cogent argument swayed the jury in her favor."
+    },
+    {
+        "word": "Dishearten",
+        "part_of_speech": "Verb",
+        "definition": "To cause (someone) to lose determination or confidence.",
+        "hindi_meaning": "निराश करना, हतोत्साहित करना",
+        "mnemonic": "Dishearten sounds like 'dis-heart,' as if taking away someone's heart or courage.",
+        "visual_representation": "Picture someone receiving disappointing news and feeling their spirit sink, symbolizing disheartenment.",
+        "example_sentence": "The team's early loss disheartened the players, making it hard to continue."
+    },
+    {
+        "word": "Exalt",
+        "part_of_speech": "Verb",
+        "definition": "To hold (someone or something) in very high regard; to raise to a higher rank or position.",
+        "hindi_meaning": "महिमामंडित करना, प्रशंसा करना",
+        "mnemonic": "Exalt sounds like 'ex-altitude,' as in lifting someone to a high altitude of respect or praise.",
+        "visual_representation": "Picture a person being lifted up on a platform and celebrated by a crowd, symbolizing exaltation.",
+        "example_sentence": "The community exalted her as a hero for her bravery."
+    },
+    {
+        "word": "Faction",
+        "part_of_speech": "Noun",
+        "definition": "A small, organized, dissenting group within a larger one, especially in politics.",
+        "hindi_meaning": "गुट, दल",
+        "mnemonic": "Faction sounds like 'fraction,' indicating a part or group that has broken away from the whole.",
+        "visual_representation": "Picture a small group of people in a meeting, arguing against the majority, symbolizing a faction.",
+        "example_sentence": "The party was divided into factions that disagreed on key issues."
+    },
+    {
+        "word": "Grate",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To reduce to small shreds by rubbing on a grater; to have an irritating effect.",
+        "hindi_meaning": "कद्दूकस करना, चिड़चिड़ाहट पैदा करना",
+        "mnemonic": "Grate sounds like 'great,' but in the sense of grinding something down or causing irritation.",
+        "visual_representation": "Picture someone grating cheese or nails scratching on a chalkboard, causing an irritating sound.",
+        "example_sentence": "The loud noise from the construction site began to grate on her nerves."
+    },
+    {
+        "word": "Inert",
+        "part_of_speech": "Adjective",
+        "definition": "Lacking the ability or strength to move; inactive.",
+        "hindi_meaning": "निष्क्रिय, गतिहीन",
+        "mnemonic": "Inert sounds like 'in-earth,' as in something that is buried and unable to move.",
+        "visual_representation": "Picture a heavy rock that cannot be moved, symbolizing something inert.",
+        "example_sentence": "The patient remained inert, showing no signs of improvement."
+    },
+    {
+        "word": "Loiter",
+        "part_of_speech": "Verb",
+        "definition": "To stand or wait around idly without apparent purpose.",
+        "hindi_meaning": "आवारागर्दी करना, बेकार घूमना",
+        "mnemonic": "Loiter sounds like 'laze-ter,' as in lazily hanging around without doing much.",
+        "visual_representation": "Picture a group of teenagers hanging around a store, doing nothing in particular, symbolizing loitering.",
+        "example_sentence": "The security guard asked them not to loiter in front of the building."
+    },
+    {
+        "word": "Multifarious",
+        "part_of_speech": "Adjective",
+        "definition": "Many and of various types; having many varied parts or aspects.",
+        "hindi_meaning": "विविध, बहुमुखी",
+        "mnemonic": "Multifarious sounds like 'multi-various,' indicating many different types or aspects.",
+        "visual_representation": "Picture a market stall with a wide variety of colorful goods, symbolizing multifarious offerings.",
+        "example_sentence": "The multifarious interests of the club members ranged from art to technology."
+    },
+    {
+        "word": "Omnipotent",
+        "part_of_speech": "Adjective",
+        "definition": "Having unlimited power; able to do anything.",
+        "hindi_meaning": "सर्वशक्तिमान, असीम शक्तिशाली",
+        "mnemonic": "Omnipotent sounds like 'omni-potent,' as in possessing all (omni) power (potent).",
+        "visual_representation": "Picture a deity holding the universe in their hands, symbolizing omnipotence.",
+        "example_sentence": "The king believed himself to be omnipotent, ruling with absolute authority."
+    },
+    {
+        "word": "Plethora",
+        "part_of_speech": "Noun",
+        "definition": "A large or excessive amount of something.",
+        "hindi_meaning": "प्रचुरता, अधिकता",
+        "mnemonic": "Plethora sounds like 'plenty-thora,' indicating an abundance or excess.",
+        "visual_representation": "Picture a table overflowing with food, symbolizing a plethora of options.",
+        "example_sentence": "The market offers a plethora of choices for fresh produce."
+    },
+    {
+        "word": "Resurge",
+        "part_of_speech": "Verb",
+        "definition": "To rise again; to increase or revive after a period of little activity or popularity.",
+        "hindi_meaning": "फिर से उभरना, पुनः उत्थान",
+        "mnemonic": "Resurge sounds like 're-surge,' as in surging back to life or prominence.",
+        "visual_representation": "Picture a plant regrowing after being cut down, symbolizing resurgence.",
+        "example_sentence": "The city saw a resurge in tourism after the new attractions were opened."
+    },
+    {
+        "word": "Somnambulist",
+        "part_of_speech": "Noun",
+        "definition": "A person who walks in their sleep; a sleepwalker.",
+        "hindi_meaning": "निद्राचारी, नींद में चलने वाला",
+        "mnemonic": "Somnambulist sounds like 'som-nam-bu-list,' with 'som' relating to sleep, indicating someone who walks in their sleep.",
+        "visual_representation": "Picture someone walking around a house with their eyes closed, symbolizing a somnambulist.",
+        "example_sentence": "The somnambulist was found wandering outside his home in the middle of the night."
+    },
+    {
+        "word": "Tightwad",
+        "part_of_speech": "Noun",
+        "definition": "A person who is excessively frugal and unwilling to spend money.",
+        "hindi_meaning": "कंजूस, अत्यधिक मितव्ययी",
+        "mnemonic": "Tightwad sounds like 'tight-wallet,' indicating someone who holds onto their money tightly.",
+        "visual_representation": "Picture a person clutching their wallet tightly, refusing to spend, symbolizing a tightwad.",
+        "example_sentence": "He's such a tightwad that he refuses to tip the waitstaff."
+    },
+    {
+        "word": "Verisimilitude",
+        "part_of_speech": "Noun",
+        "definition": "The appearance of being true or real.",
+        "hindi_meaning": "यथार्थता, सत्यासत्यता",
+        "mnemonic": "Verisimilitude sounds like 'very-similar-to-true,' indicating something that closely resembles the truth.",
+        "visual_representation": "Picture a realistic painting that looks almost like a photograph, symbolizing verisimilitude.",
+        "example_sentence": "The novel's verisimilitude made readers feel as if they were experiencing the events firsthand."
+    }
+]

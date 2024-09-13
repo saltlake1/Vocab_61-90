@@ -1,0 +1,146 @@
+[
+    {
+        "word": "Ambiguous",
+        "part_of_speech": "Adjective",
+        "definition": "Open to more than one interpretation; having a double meaning; unclear or inexact.",
+        "hindi_meaning": "अस्पष्ट, द्व्यर्थक",
+        "mnemonic": "Ambiguous sounds like 'ambi-gues,' as in something that can be guessed in multiple ways because it’s unclear.",
+        "visual_representation": "Picture a road sign with arrows pointing in different directions, symbolizing ambiguity.",
+        "example_sentence": "The instructions were so ambiguous that nobody knew what to do next."
+    },
+    {
+        "word": "Burly",
+        "part_of_s_speech": "Adjective",
+        "definition": "Large and strong; heavily built.",
+        "hindi_meaning": "ताकतवर, भारी-भरकम",
+        "mnemonic": "Burly sounds like 'bull-y,' as in someone as strong and heavy as a bull.",
+        "visual_representation": "Picture a big, muscular man lifting heavy weights, symbolizing someone burly.",
+        "example_sentence": "The burly security guard easily restrained the intruder."
+    },
+    {
+        "word": "Codify",
+        "part_of_speech": "Verb",
+        "definition": "To arrange (laws or rules) into a systematic code; to organize and make something systematic.",
+        "hindi_meaning": "संहिताबद्ध करना, व्यवस्थित करना",
+        "mnemonic": "Codify sounds like 'code-ify,' as in turning rules into a systematic code.",
+        "visual_representation": "Picture a stack of legal documents being organized into a neat, systematic code, symbolizing codification.",
+        "example_sentence": "The government plans to codify the new regulations into law."
+    },
+    {
+        "word": "Disgorge",
+        "part_of_speech": "Verb",
+        "definition": "To pour out or throw out (something, especially food or liquid) from the mouth or throat; to discharge forcefully.",
+        "hindi_meaning": "उलट देना, उगलना",
+        "mnemonic": "Disgorge sounds like 'dis-gorge,' as in a gorge or throat forcibly throwing something out.",
+        "visual_representation": "Picture a volcano violently erupting and spewing out lava, symbolizing disgorging.",
+        "example_sentence": "The river disgorged its contents into the ocean after the heavy rains."
+    },
+    {
+        "word": "Exacerbate",
+        "part_of_speech": "Verb",
+        "definition": "To make (a problem, bad situation, or negative feeling) worse.",
+        "hindi_meaning": "बढ़ाना, बिगाड़ना",
+        "mnemonic": "Exacerbate sounds like 'ex-acer-bate,' as in making a situation more acute or severe.",
+        "visual_representation": "Picture someone pouring fuel on a small fire, causing it to flare up and worsen, symbolizing exacerbation.",
+        "example_sentence": "His harsh words only served to exacerbate the tension in the room."
+    },
+    {
+        "word": "Facade",
+        "part_of_speech": "Noun",
+        "definition": "The face of a building, especially the front that looks onto a street or open space; an outward appearance that is maintained to conceal a less pleasant or creditable reality.",
+        "hindi_meaning": "बाहरी हिस्सा, मुखौटा",
+        "mnemonic": "Facade sounds like 'face-ade,' as in the front face of a building or a false front to hide the reality.",
+        "visual_representation": "Picture a beautiful building front with cracks behind the surface, symbolizing a facade.",
+        "example_sentence": "Despite her calm facade, she was actually quite nervous."
+    },
+    {
+        "word": "Gory",
+        "part_of_speech": "Adjective",
+        "definition": "Involving or showing violence and bloodshed.",
+        "hindi_meaning": "खूनखराबा, रक्तरंजित",
+        "mnemonic": "Gory sounds like 'gore-y,' as in filled with blood and violence.",
+        "visual_representation": "Picture a battlefield scene with graphic violence, symbolizing something gory.",
+        "example_sentence": "The horror movie was so gory that many viewers had to look away."
+    },
+    {
+        "word": "Inept",
+        "part_of_speech": "Adjective",
+        "definition": "Having or showing no skill; clumsy.",
+        "hindi_meaning": "अयोग्य, अकुशल",
+        "mnemonic": "Inept sounds like 'in-apt,' as in not apt or lacking skill.",
+        "visual_representation": "Picture someone trying to juggle but dropping all the balls, symbolizing ineptness.",
+        "example_sentence": "His inept handling of the situation only made things worse."
+    },
+    {
+        "word": "Lewd",
+        "part_of_speech": "Adjective",
+        "definition": "Crude and offensive in a sexual way.",
+        "hindi_meaning": "अश्लील, कामुक",
+        "mnemonic": "Lewd sounds like 'lewd-ness,' indicating crude or inappropriate sexual behavior.",
+        "visual_representation": "Picture someone making inappropriate gestures or comments, symbolizing lewdness.",
+        "example_sentence": "The comedian's lewd jokes were not appreciated by the audience."
+    },
+    {
+        "word": "Muggy",
+        "part_of_speech": "Adjective",
+        "definition": "Unpleasantly warm and humid.",
+        "hindi_meaning": "उमस भरा, चिपचिपा",
+        "mnemonic": "Muggy sounds like 'mug-gy,' as in the air is thick like being in a mug, warm and sticky.",
+        "visual_representation": "Picture a hot, sticky day with heavy, humid air, symbolizing muggy weather.",
+        "example_sentence": "The weather was so muggy that everyone was drenched in sweat."
+    },
+    {
+        "word": "Obliterate",
+        "part_of_speech": "Verb",
+        "definition": "To destroy utterly; to wipe out.",
+        "hindi_meaning": "नष्ट कर देना, मिटाना",
+        "mnemonic": "Obliterate sounds like 'ob-liter-ate,' as in making something liter-ally disappear or be destroyed.",
+        "visual_representation": "Picture a building being demolished into dust, symbolizing obliteration.",
+        "example_sentence": "The powerful storm obliterated the small coastal town."
+    },
+    {
+        "word": "Plausible",
+        "part_of_speech": "Adjective",
+        "definition": "(Of an argument or statement) seeming reasonable or probable.",
+        "hindi_meaning": "संभाव्य, विश्वसनीय",
+        "mnemonic": "Plausible sounds like 'plausi-ble,' as in something that can be applauded for being believable or likely.",
+        "visual_representation": "Picture a detective considering a suspect’s story as making sense, symbolizing plausibility.",
+        "example_sentence": "The explanation seemed plausible, so the detective decided to investigate further."
+    },
+    {
+        "word": "Restraint",
+        "part_of_speech": "Noun",
+        "definition": "A measure or condition that keeps someone or something under control; self-control.",
+        "hindi_meaning": "नियंत्रण, संयम",
+        "mnemonic": "Restraint sounds like 're-strain,' as in holding back or controlling something.",
+        "visual_representation": "Picture someone holding back a powerful horse with reins, symbolizing restraint.",
+        "example_sentence": "He showed great restraint by not responding to the provocations."
+    },
+    {
+        "word": "Solvent",
+        "part_of_speech": "Adjective / Noun",
+        "definition": "(Adjective) Having assets in excess of liabilities; able to pay one's debts. (Noun) A substance that dissolves a solute, resulting in a solution.",
+        "hindi_meaning": "सक्षम, दिवालिया न होना; विलायक",
+        "mnemonic": "Solvent sounds like 'solve-vent,' as in having the means to solve financial problems or dissolve substances.",
+        "visual_representation": "Picture someone paying off debts with ease, symbolizing financial solvency, or a liquid dissolving a substance.",
+        "example_sentence": "The company managed to stay solvent despite the economic downturn."
+    },
+    {
+        "word": "Threadbare",
+        "part_of_speech": "Adjective",
+        "definition": "(Of cloth) becoming thin and tattered with age; (Of an argument, excuse, idea, etc.) used so often that it is no longer effective.",
+        "hindi_meaning": "घिसा हुआ, पुराना",
+        "mnemonic": "Threadbare sounds like 'thread-bare,' as in cloth that is so worn out it’s almost bare of threads.",
+        "visual_representation": "Picture an old, worn-out carpet with patches showing through, symbolizing threadbare.",
+        "example_sentence": "The threadbare sofa was a testament to how long it had been in the family."
+    },
+    {
+        "word": "Vantage",
+        "part_of_speech": "Noun",
+        "definition": "A place or position affording a good view of something; an advantage in a contest.",
+        "hindi_meaning": "दृष्टिकोण, लाभकारी स्थिति",
+        "mnemonic": "Vantage sounds like 'advantage,' indicating a position that gives an advantageous view or perspective.",
+        "visual_representation": "Picture someone standing on a hill with a clear view of the landscape, symbolizing a vantage point.",
+        "example_sentence": "From their vantage on the hill, they could see the entire battlefield."
+    }
+]

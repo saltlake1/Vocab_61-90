@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Alleviate",
+        "part_of_speech": "Verb",
+        "definition": "To make (suffering, deficiency, or a problem) less severe.",
+        "hindi_meaning": "कम करना, राहत देना",
+        "mnemonic": "Alleviate sounds like 'all-ease-iate,' as if bringing ease to a difficult situation.",
+        "visual_representation": "Picture someone taking pain medication to relieve a headache, symbolizing alleviation.",
+        "example_sentence": "The doctor prescribed medication to alleviate her symptoms."
+    },
+    {
+        "word": "Brunt",
+        "part_of_speech": "Noun",
+        "definition": "The worst part or chief impact of a specified thing.",
+        "hindi_meaning": "मुख्य भार, मुख्य प्रभाव",
+        "mnemonic": "Brunt sounds like 'front,' as in taking the front-line impact of something.",
+        "visual_representation": "Picture a shield bearing the full force of an attack, symbolizing bearing the brunt.",
+        "example_sentence": "The small town bore the brunt of the hurricane's destruction."
+    },
+    {
+        "word": "Claustrophobia",
+        "part_of_speech": "Noun",
+        "definition": "An irrational fear of confined or enclosed spaces.",
+        "hindi_meaning": "बंद जगह का डर, संकुचित स्थान का भय",
+        "mnemonic": "Claustrophobia sounds like 'claw-stro-phobia,' as if feeling like the walls are closing in and you need to claw your way out.",
+        "visual_representation": "Picture someone feeling trapped and panicked inside a small elevator, symbolizing claustrophobia.",
+        "example_sentence": "She avoids using elevators due to her claustrophobia."
+    },
+    {
+        "word": "Disconsolate",
+        "part_of_speech": "Adjective",
+        "definition": "Without consolation or comfort; unhappy, deeply saddened.",
+        "hindi_meaning": "उदास, निराश",
+        "mnemonic": "Disconsolate sounds like 'dis-consolate,' as if someone is beyond being consoled.",
+        "visual_representation": "Picture someone sitting alone and crying after a loss, symbolizing disconsolate feelings.",
+        "example_sentence": "He was disconsolate after the sudden loss of his pet."
+    },
+    {
+        "word": "Esteem",
+        "part_of_speech": "Noun / Verb",
+        "definition": "Respect and admiration, typically for a person; to regard highly or favorably.",
+        "hindi_meaning": "सम्मान, आदर करना",
+        "mnemonic": "Esteem sounds like 'esteem-ed,' indicating someone held in high regard.",
+        "visual_representation": "Picture a group of people applauding and showing respect for a community leader, symbolizing esteem.",
+        "example_sentence": "She was held in high esteem by her colleagues for her dedication and hard work."
+    },
+    {
+        "word": "Frigid",
+        "part_of_speech": "Adjective",
+        "definition": "Very cold in temperature; lacking warmth of feeling; stiff and formal.",
+        "hindi_meaning": "अत्यधिक ठंडा, सर्द",
+        "mnemonic": "Frigid sounds like 'fridge-id,' indicating something as cold as a refrigerator.",
+        "visual_representation": "Picture a snowy, icy landscape with freezing winds, symbolizing frigid conditions.",
+        "example_sentence": "The frigid air made it difficult to stay outside for long."
+    },
+    {
+        "word": "Grouse",
+        "part_of_speech": "Verb / Noun",
+        "definition": "To complain pettily; a complaint.",
+        "hindi_meaning": "शिकायत करना, गुस्सा",
+        "mnemonic": "Grouse sounds like 'grouch,' indicating someone who frequently complains.",
+        "visual_representation": "Picture someone grumbling about the weather or a minor inconvenience, symbolizing grousing.",
+        "example_sentence": "He’s always grousing about the food in the cafeteria."
+    },
+    {
+        "word": "Hypochondriac",
+        "part_of_speech": "Noun",
+        "definition": "A person who is abnormally anxious about their health.",
+        "hindi_meaning": "मनोविकारी, स्वास्थ्य संबंधी चिंता से ग्रस्त व्यक्ति",
+        "mnemonic": "Hypochondriac sounds like 'hype-oh-condriac,' as if hyping up small health concerns into something serious.",
+        "visual_representation": "Picture someone constantly worrying about imaginary illnesses and seeking medical advice, symbolizing hypochondria.",
+        "example_sentence": "Being a hypochondriac, he frequently visits doctors for ailments that are often imagined."
+    },
+    {
+        "word": "Indignity",
+        "part_of_speech": "Noun",
+        "definition": "Treatment or circumstances that cause one to feel shame or to lose one's dignity.",
+        "hindi_meaning": "अपमान, बेइज़्ज़ती",
+        "mnemonic": "Indignity sounds like 'in-dignity,' as in something that takes away one’s dignity.",
+        "visual_representation": "Picture someone being publicly humiliated or treated unfairly, symbolizing indignity.",
+        "example_sentence": "She felt the indignity of being passed over for the promotion despite her hard work."
+    },
+    {
+        "word": "Lofty",
+        "part_of_speech": "Adjective",
+        "definition": "Of imposing height; of a noble or exalted nature; proud, aloof, or self-important.",
+        "hindi_meaning": "ऊँचा, महान, गर्वित",
+        "mnemonic": "Lofty sounds like 'loft-high,' indicating something high or elevated in position or character.",
+        "visual_representation": "Picture a tall mountain peak, symbolizing something lofty or high in status.",
+        "example_sentence": "His lofty ambitions often set him apart from his peers."
+    },
+    {
+        "word": "Montage",
+        "part_of_speech": "Noun",
+        "definition": "The process or technique of selecting, editing, and piecing together separate sections of film to form a continuous whole; a composite picture made by combining several separate pictures.",
+        "hindi_meaning": "संयोजन, मिश्रण",
+        "mnemonic": "Montage sounds like 'mont-tage,' as in putting together multiple images or clips to create a whole.",
+        "visual_representation": "Picture a series of different images or film clips combined to tell a story, symbolizing a montage.",
+        "example_sentence": "The movie opened with a montage of the protagonist's childhood memories."
+    },
+    {
+        "word": "Oust",
+        "part_of_speech": "Verb",
+        "definition": "To drive out or expel someone from a position or place.",
+        "hindi_meaning": "बाहर निकालना, पदच्युत करना",
+        "mnemonic": "Oust sounds like 'out-st,' as in forcing someone out of a position.",
+        "visual_representation": "Picture a person being removed from a throne or leadership position, symbolizing ousting.",
+        "example_sentence": "The corrupt CEO was ousted by the company’s board of directors."
+    },
+    {
+        "word": "Piquant",
+        "part_of_speech": "Adjective",
+        "definition": "Having a pleasantly sharp taste or appetizing flavor; pleasantly stimulating or exciting to the mind.",
+        "hindi_meaning": "तीखा, चटपटा",
+        "mnemonic": "Piquant sounds like 'peck-ant,' as in something with a small, spicy bite like an ant’s sting.",
+        "visual_representation": "Picture a flavorful dish that excites the taste buds, symbolizing piquancy.",
+        "example_sentence": "The piquant salsa added a delightful kick to the dish."
+    },
+    {
+        "word": "Rescind",
+        "part_of_speech": "Verb",
+        "definition": "To revoke, cancel, or repeal (a law, order, or agreement).",
+        "hindi_meaning": "रद्द करना, निरस्त करना",
+        "mnemonic": "Rescind sounds like 're-send,' as if sending something back or taking it away.",
+        "visual_representation": "Picture a document being stamped with 'CANCELLED' across it, symbolizing rescinding.",
+        "example_sentence": "The company decided to rescind the job offer after discovering discrepancies in the applicant’s resume."
+    },
+    {
+        "word": "Smelt",
+        "part_of_speech": "Verb",
+        "definition": "To extract (metal) from its ore by a process involving heating and melting.",
+        "hindi_meaning": "गलाना, धातु निकालना",
+        "mnemonic": "Smelt sounds like 'smell-t,' as in the process of heating metal that produces a distinct smell.",
+        "visual_representation": "Picture molten metal being poured out of a furnace, symbolizing the smelting process.",
+        "example_sentence": "The factory smelts iron ore to produce steel."
+    },
+    {
+        "word": "Tacit",
+        "part_of_speech": "Adjective",
+        "definition": "Understood or implied without being stated.",
+        "hindi_meaning": "मौन, बिना बोले समझा गया",
+        "mnemonic": "Tacit sounds like 'taciturn,' indicating something that is understood without words.",
+        "visual_representation": "Picture two people nodding in agreement without speaking, symbolizing tacit understanding.",
+        "example_sentence": "There was a tacit agreement among the team members to support each other during the difficult project."
+    },
+    {
+        "word": "Vogue",
+        "part_of_speech": "Noun / Adjective",
+        "definition": "The prevailing fashion or style at a particular time; popular or fashionable.",
+        "hindi_meaning": "प्रचलन, फैशन",
+        "mnemonic": "Vogue sounds like 'vogue-ue,' as in something that is in vogue or stylish.",
+        "visual_representation": "Picture a runway show featuring the latest fashion trends, symbolizing vogue.",
+        "example_sentence": "Minimalist design is currently in vogue among interior decorators."
+    }
+]

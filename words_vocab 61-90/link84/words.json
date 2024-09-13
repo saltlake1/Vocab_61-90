@@ -1,0 +1,128 @@
+[
+    {
+        "word": "Amplify",
+        "part_of_speech": "Verb",
+        "definition": "To increase the volume, intensity, or impact of something; to make something more powerful or detailed.",
+        "hindi_meaning": "बढ़ाना, विस्तार करना",
+        "mnemonic": "Amplify sounds like 'amp-lify,' as in using an amplifier to make sound louder.",
+        "visual_representation": "Picture a musician turning up the volume on an amplifier, making the music louder, symbolizing amplification.",
+        "example_sentence": "The speaker used data to amplify his argument, making it more convincing."
+    },
+    {
+        "word": "Bemoan",
+        "part_of_speech": "Verb",
+        "definition": "To express deep grief or sorrow over something; to lament.",
+        "hindi_meaning": "शोक व्यक्त करना, विलाप करना",
+        "mnemonic": "Bemoan sounds like 'be-moan,' as in someone moaning or crying over something sad.",
+        "visual_representation": "Picture someone crying or expressing sadness over a loss, symbolizing bemoaning.",
+        "example_sentence": "She bemoaned the loss of her favorite book, which had been with her for years."
+    },
+    {
+        "word": "Comatose",
+        "part_of_speech": "Adjective",
+        "definition": "In a state of deep unconsciousness for a prolonged or indefinite period, especially as a result of severe injury or illness; lethargic or unresponsive.",
+        "hindi_meaning": "बेहोशी की हालत में, अचेत",
+        "mnemonic": "Comatose sounds like 'coma-tose,' as in being in a coma, completely unresponsive.",
+        "visual_representation": "Picture someone lying in a hospital bed, unresponsive and in a deep coma, symbolizing a comatose state.",
+        "example_sentence": "After the accident, he remained comatose for several weeks."
+    },
+    {
+        "word": "Disperse",
+        "part_of_speech": "Verb",
+        "definition": "To distribute or spread over a wide area; to scatter.",
+        "hindi_meaning": "फैलाना, बिखेरना",
+        "mnemonic": "Disperse sounds like 'dis-perse,' as in spreading or scattering something far and wide.",
+        "visual_representation": "Picture seeds being scattered by the wind across a field, symbolizing dispersal.",
+        "example_sentence": "The police used tear gas to disperse the crowd."
+    },
+    {
+        "word": "Exhume",
+        "part_of_speech": "Verb",
+        "definition": "To dig out something buried, especially a corpse, from the ground; to bring to light.",
+        "hindi_meaning": "कब्र से निकालना, उजागर करना",
+        "mnemonic": "Exhume sounds like 'ex-hum,' as in taking something out of the earth (humus).",
+        "visual_representation": "Picture an archaeologist digging up an ancient skeleton, symbolizing exhumation.",
+        "example_sentence": "The body was exhumed to determine the cause of death."
+    },
+    {
+        "word": "Flaccid",
+        "part_of_speech": "Adjective",
+        "definition": "Soft and hanging loosely or limply, especially so as to look or feel unpleasant; lacking force or vigor.",
+        "hindi_meaning": "ढीला, कमज़ोर",
+        "mnemonic": "Flaccid sounds like 'flag-sid,' as in something limp and lacking firmness, like a flag without wind.",
+        "visual_representation": "Picture a deflated balloon, soft and without shape, symbolizing flaccidity.",
+        "example_sentence": "The flaccid handshake made a poor impression on his potential employer."
+    },
+    {
+        "word": "Gist",
+        "part_of_speech": "Noun",
+        "definition": "The main or essential part of a matter; the substance or essence.",
+        "hindi_meaning": "सारांश, मुख्य बिंदु",
+        "mnemonic": "Gist sounds like 'gist,' as in the essence or main idea of something.",
+        "visual_representation": "Picture someone summarizing a long speech in a few sentences, capturing the gist of it.",
+        "example_sentence": "I only had time to get the gist of the article, but it seemed interesting."
+    },
+    {
+        "word": "Ingenious",
+        "part_of_speech": "Adjective",
+        "definition": "Clever, original, and inventive.",
+        "hindi_meaning": "प्रतिभाशाली, चतुर",
+        "mnemonic": "Ingenious sounds like 'in-genius,' indicating someone with genius-level cleverness.",
+        "visual_representation": "Picture a person coming up with a brilliant, creative solution to a problem, symbolizing ingenuity.",
+        "example_sentence": "Her ingenious plan helped the company save a significant amount of money."
+    },
+    {
+        "word": "Lunge",
+        "part_of_speech": "Verb / Noun",
+        "definition": "(Verb) To make a sudden, forceful forward movement; (Noun) A sudden forward thrust of the body, typically with an arm outstretched to attack someone or something.",
+        "hindi_meaning": "झपटना, हमला करना",
+        "mnemonic": "Lunge sounds like 'launch,' indicating a sudden, aggressive move forward.",
+        "visual_representation": "Picture a fencer lunging forward with their sword in a quick, decisive motion.",
+        "example_sentence": "The dog lunged at the intruder, barking fiercely."
+    },
+    {
+        "word": "Mystify",
+        "part_of_speech": "Verb",
+        "definition": "To utterly bewilder or perplex someone.",
+        "hindi_meaning": "चकरा देना, उलझाना",
+        "mnemonic": "Mystify sounds like 'mystery-fy,' indicating something that makes a mystery or confuses.",
+        "visual_representation": "Picture someone scratching their head, completely puzzled by a confusing riddle, symbolizing mystification.",
+        "example_sentence": "The magician's tricks mystified the audience, leaving them wondering how they were done."
+    },
+    {
+        "word": "Pontifical",
+        "part_of_speech": "Adjective",
+        "definition": "Relating to the pope; characterized by a pompous and self-important manner.",
+        "hindi_meaning": "पोप से संबंधित; घमंडी",
+        "mnemonic": "Pontifical sounds like 'pontiff-cal,' as in relating to the pope or acting as if one is as important as the pope.",
+        "visual_representation": "Picture someone speaking with an air of superiority and self-importance, symbolizing pontifical behavior.",
+        "example_sentence": "His pontifical tone during the meeting annoyed everyone."
+    },
+    {
+        "word": "Revert",
+        "part_of_speech": "Verb",
+        "definition": "To return to a previous state, condition, or practice.",
+        "hindi_meaning": "वापस लौटना, पुनः ग्रहण करना",
+        "mnemonic": "Revert sounds like 're-vert,' as in turning back to an earlier state.",
+        "visual_representation": "Picture someone returning to an old habit after trying something new, symbolizing reversion.",
+        "example_sentence": "After trying the new software, he reverted to the old version because it was easier to use."
+    },
+    {
+        "word": "Specious",
+        "part_of_speech": "Adjective",
+        "definition": "Misleadingly attractive or plausible; seemingly correct or true, but actually wrong or false.",
+        "hindi_meaning": "भ्रामक, दिखावटी",
+        "mnemonic": "Specious sounds like 'suspicious,' indicating something that seems good on the surface but is deceptive.",
+        "visual_representation": "Picture a shiny apple that looks perfect but is rotten inside, symbolizing something specious.",
+        "example_sentence": "The argument was specious, convincing at first glance but falling apart under scrutiny."
+    },
+    {
+        "word": "Trinket",
+        "part_of_speech": "Noun",
+        "definition": "A small ornament or item of jewelry that is of little value.",
+        "hindi_meaning": "छोटी-मोटी वस्तु, सस्ता गहना",
+        "mnemonic": "Trinket sounds like 'tiny-kit,' as in a small, insignificant item.",
+        "visual_representation": "Picture a small, decorative keychain or a piece of costume jewelry, symbolizing a trinket.",
+        "example_sentence": "She bought a few trinkets from the souvenir shop to remember her trip by."
+    }
+]

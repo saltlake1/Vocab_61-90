@@ -1,0 +1,128 @@
+[
+    {
+        "word": "Anarchy",
+        "part_of_speech": "Noun",
+        "definition": "A state of disorder due to the absence or nonrecognition of authority or other controlling systems.",
+        "hindi_meaning": "अराजकता, अव्यवस्था",
+        "mnemonic": "Anarchy sounds like 'an-arch,' meaning 'no ruler,' leading to chaos or disorder.",
+        "visual_representation": "Picture a city with people running wild, breaking rules, and no police in sight, symbolizing anarchy.",
+        "example_sentence": "After the government collapsed, the country descended into anarchy."
+    },
+    {
+        "word": "Biased",
+        "part_of_speech": "Adjective",
+        "definition": "Unfairly prejudiced for or against someone or something.",
+        "hindi_meaning": "पक्षपाती, पूर्वाग्रही",
+        "mnemonic": "Biased sounds like 'by-sided,' as in leaning to one side unfairly.",
+        "visual_representation": "Picture a judge tipping the scales of justice in favor of one side, symbolizing bias.",
+        "example_sentence": "The journalist was criticized for writing a biased report that favored one political party."
+    },
+    {
+        "word": "Commodious",
+        "part_of_speech": "Adjective",
+        "definition": "(Especially of furniture or a building) roomy and comfortable.",
+        "hindi_meaning": "विशाल, आरामदायक",
+        "mnemonic": "Commodious sounds like 'com-mode-ious,' as in something with plenty of space to move around.",
+        "visual_representation": "Picture a large, spacious living room with plenty of seating, symbolizing commodiousness.",
+        "example_sentence": "The commodious apartment had plenty of space for all their furniture."
+    },
+    {
+        "word": "Dissertation",
+        "part_of_speech": "Noun",
+        "definition": "A long essay on a particular subject, especially one written for a university degree or diploma.",
+        "hindi_meaning": "शोध प्रबंध, प्रबंध लेख",
+        "mnemonic": "Dissertation sounds like 'dissert-ation,' as in a serious discussion or lengthy written treatment of a subject.",
+        "visual_representation": "Picture a student working late at night surrounded by books and notes, writing a dissertation.",
+        "example_sentence": "She spent two years researching and writing her dissertation on medieval literature."
+    },
+    {
+        "word": "Expatriate",
+        "part_of_speech": "Noun / Verb",
+        "definition": "(Noun) A person who lives outside their native country; (Verb) To settle oneself abroad.",
+        "hindi_meaning": "प्रवासी, निर्वासित",
+        "mnemonic": "Expatriate sounds like 'ex-patriot,' as in someone who has left their homeland.",
+        "visual_representation": "Picture someone living in a foreign country, far from their home, symbolizing expatriation.",
+        "example_sentence": "The company sent him to work as an expatriate in their London office for three years."
+    },
+    {
+        "word": "Flux",
+        "part_of_speech": "Noun",
+        "definition": "Continuous change or movement; instability.",
+        "hindi_meaning": "प्रवाह, परिवर्तनशीलता",
+        "mnemonic": "Flux sounds like 'flow-x,' as in constant flow or change.",
+        "visual_representation": "Picture a river constantly changing its path and speed, symbolizing flux.",
+        "example_sentence": "The company is in a state of flux as it undergoes restructuring."
+    },
+    {
+        "word": "Grudging",
+        "part_of_speech": "Adjective",
+        "definition": "Given, granted, or allowed only reluctantly or resentfully.",
+        "hindi_meaning": "अनिच्छा से, बेमन से",
+        "mnemonic": "Grudging sounds like 'grudge-ing,' as in doing something with a grudge or unwillingly.",
+        "visual_representation": "Picture someone reluctantly handing over money with a frown, symbolizing grudging behavior.",
+        "example_sentence": "He gave a grudging apology after being pressured by his friends."
+    },
+    {
+        "word": "Inimical",
+        "part_of_speech": "Adjective",
+        "definition": "Tending to obstruct or harm; unfriendly or hostile.",
+        "hindi_meaning": "हानिकारक, शत्रुतापूर्ण",
+        "mnemonic": "Inimical sounds like 'enemy-cal,' indicating something or someone that acts like an enemy.",
+        "visual_representation": "Picture dark clouds gathering over a battlefield, symbolizing a hostile environment.",
+        "example_sentence": "The policies were inimical to the interests of small businesses."
+    },
+    {
+        "word": "Litigation",
+        "part_of_speech": "Noun",
+        "definition": "The process of taking legal action; a lawsuit.",
+        "hindi_meaning": "मुकदमा, वाद",
+        "mnemonic": "Litigation sounds like 'lit-i-gation,' as in lighting up the courtroom with a case or dispute.",
+        "visual_representation": "Picture a courtroom scene with lawyers arguing a case, symbolizing litigation.",
+        "example_sentence": "The company was involved in lengthy litigation over a breach of contract."
+    },
+    {
+        "word": "Malodorous",
+        "part_of_speech": "Adjective",
+        "definition": "Smelling very unpleasant.",
+        "hindi_meaning": "दुर्गंधपूर्ण, बदबूदार",
+        "mnemonic": "Malodorous sounds like 'mal-odor-ous,' indicating a bad (mal) smell (odor).",
+        "visual_representation": "Picture a garbage can overflowing with trash, emitting a foul odor, symbolizing malodorousness.",
+        "example_sentence": "The malodorous smell from the dumpster made it hard to stay in the area."
+    },
+    {
+        "word": "Posthumous",
+        "part_of_speech": "Adjective",
+        "definition": "Occurring, awarded, or appearing after the death of the originator.",
+        "hindi_meaning": "मरणोपरांत, मृत्यु के बाद",
+        "mnemonic": "Posthumous sounds like 'post-humans,' as in after the person has passed away.",
+        "visual_representation": "Picture a medal being awarded to a soldier's family after their death, symbolizing a posthumous honor.",
+        "example_sentence": "The author received posthumous recognition for his contributions to literature."
+    },
+    {
+        "word": "Riddle",
+        "part_of_speech": "Noun / Verb",
+        "definition": "(Noun) A question or statement intentionally phrased so as to require ingenuity in ascertaining its answer or meaning; (Verb) To fill or permeate (something), especially with holes.",
+        "hindi_meaning": "पहेली; छेद कर देना",
+        "mnemonic": "Riddle sounds like 'rid-dle,' as in something puzzling or full of holes.",
+        "visual_representation": "Picture a piece of cheese full of holes, symbolizing something riddled with holes or a puzzling question.",
+        "example_sentence": "The mystery was a riddle that baffled detectives for years."
+    },
+    {
+        "word": "Spry",
+        "part_of_speech": "Adjective",
+        "definition": "(Especially of an old person) active and lively.",
+        "hindi_meaning": "फुर्तीला, चुस्त",
+        "mnemonic": "Spry sounds like 'spry-yer,' as in someone who is agile and quick.",
+        "visual_representation": "Picture an elderly person jogging with energy and enthusiasm, symbolizing spryness.",
+        "example_sentence": "Despite his age, the old man was remarkably spry, moving about with ease."
+    },
+    {
+        "word": "Talisman",
+        "part_of_speech": "Noun",
+        "definition": "An object, typically an inscribed ring or stone, thought to have magic powers and to bring good luck.",
+        "hindi_meaning": "ताबीज़, शुभ वस्तु",
+        "mnemonic": "Talisman sounds like 'tale-is-man,' as in an object with a magical tale or story behind it.",
+        "visual_representation": "Picture a small, intricately carved stone worn around the neck for protection, symbolizing a talisman.",
+        "example_sentence": "She carried a talisman wherever she went, believing it brought her good luck."
+    }
+]

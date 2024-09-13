@@ -1,0 +1,128 @@
+[
+    {
+        "word": "Amulet",
+        "part_of_speech": "Noun",
+        "definition": "An ornament or small piece of jewelry thought to give protection against evil, danger, or disease.",
+        "hindi_meaning": "तावीज़, रक्षा-कवच",
+        "mnemonic": "Amulet sounds like 'amu-guard,' as in something that guards or protects you.",
+        "visual_representation": "Picture a small pendant worn around the neck, believed to ward off evil spirits, symbolizing an amulet.",
+        "example_sentence": "She always wore an amulet given to her by her grandmother for protection."
+    },
+    {
+        "word": "Benevolent",
+        "part_of_speech": "Adjective",
+        "definition": "Well-meaning and kindly; showing goodwill.",
+        "hindi_meaning": "परोपकारी, दयालु",
+        "mnemonic": "Benevolent sounds like 'bene-volunteer,' as in someone who volunteers out of kindness.",
+        "visual_representation": "Picture a person helping others with a warm smile, symbolizing benevolence.",
+        "example_sentence": "The benevolent woman donated a large sum of money to the orphanage."
+    },
+    {
+        "word": "Comely",
+        "part_of_speech": "Adjective",
+        "definition": "Pleasant to look at; attractive (typically used to describe a woman).",
+        "hindi_meaning": "आकर्षक, सुंदर",
+        "mnemonic": "Comely sounds like 'come-ly,' as in someone who looks attractive and makes you want to come closer.",
+        "visual_representation": "Picture a beautiful woman with a pleasant appearance, symbolizing comeliness.",
+        "example_sentence": "The comely actress received many compliments for her beauty."
+    },
+    {
+        "word": "Disputatious",
+        "part_of_speech": "Adjective",
+        "definition": "Fond of or causing heated arguments.",
+        "hindi_meaning": "झगड़ालू, विवादप्रिय",
+        "mnemonic": "Disputatious sounds like 'dispute-acious,' as in someone who is argumentative or likes to dispute.",
+        "visual_representation": "Picture two people constantly arguing or debating intensely, symbolizing a disputatious nature.",
+        "example_sentence": "The disputatious lawyer enjoyed engaging in heated debates."
+    },
+    {
+        "word": "Exodus",
+        "part_of_speech": "Noun",
+        "definition": "A mass departure of people, especially emigrants.",
+        "hindi_meaning": "पलायन, सामूहिक प्रस्थान",
+        "mnemonic": "Exodus sounds like 'exit-us,' as in a large group of people exiting or leaving together.",
+        "visual_representation": "Picture a large crowd of people leaving a city or country, symbolizing an exodus.",
+        "example_sentence": "The exodus of refugees from the war-torn region overwhelmed neighboring countries."
+    },
+    {
+        "word": "Fleck",
+        "part_of_speech": "Noun / Verb",
+        "definition": "(Noun) A very small patch of color or light; (Verb) To mark or dot with small patches of color or particles.",
+        "hindi_meaning": "धब्बा, छोटा सा निशान",
+        "mnemonic": "Fleck sounds like 'fleck-er,' as in a small speck or spot.",
+        "visual_representation": "Picture tiny spots of paint on a canvas, symbolizing flecks.",
+        "example_sentence": "The artist added flecks of white to the painting to represent stars in the night sky."
+    },
+    {
+        "word": "Gratis",
+        "part_of_speech": "Adjective / Adverb",
+        "definition": "Without charge; free.",
+        "hindi_meaning": "मुफ्त में, निशुल्क",
+        "mnemonic": "Gratis sounds like 'grate-is,' as in something that you don't have to pay for—it's free!",
+        "visual_representation": "Picture a sign that says 'Free Samples,' symbolizing something that is gratis.",
+        "example_sentence": "The hotel provided breakfast gratis for all its guests."
+    },
+    {
+        "word": "Ingenuous",
+        "part_of_speech": "Adjective",
+        "definition": "Innocent and unsuspecting; showing childlike simplicity.",
+        "hindi_meaning": "भोला-भाला, निष्कपट",
+        "mnemonic": "Ingenuous sounds like 'in-genuine,' but think of it as genuinely innocent or naive.",
+        "visual_representation": "Picture a child trusting and open-hearted, symbolizing ingenuousness.",
+        "example_sentence": "Her ingenuous nature made it easy for others to take advantage of her."
+    },
+    {
+        "word": "Leniency",
+        "part_of_speech": "Noun",
+        "definition": "The quality of being more merciful or tolerant than expected; clemency.",
+        "hindi_meaning": "उदारता, नरमी",
+        "mnemonic": "Leniency sounds like 'lean-in-cy,' as in leaning towards being kind or merciful.",
+        "visual_representation": "Picture a judge reducing a prison sentence, showing leniency.",
+        "example_sentence": "The teacher showed leniency by giving the student another chance to complete the assignment."
+    },
+    {
+        "word": "Magnanimous",
+        "part_of_speech": "Adjective",
+        "definition": "Very generous or forgiving, especially toward a rival or someone less powerful.",
+        "hindi_meaning": "उदार, विशाल हृदय वाला",
+        "mnemonic": "Magnanimous sounds like 'mag-nanimous,' as in someone with a grand or large-hearted nature.",
+        "visual_representation": "Picture a king forgiving a defeated enemy, symbolizing magnanimity.",
+        "example_sentence": "In a magnanimous gesture, he forgave his opponent and offered him assistance."
+    },
+    {
+        "word": "Porous",
+        "part_of_speech": "Adjective",
+        "definition": "Having tiny holes or spaces through which liquid or air may pass; easily penetrated or permeable.",
+        "hindi_meaning": "छिद्रयुक्त, झरझरा",
+        "mnemonic": "Porous sounds like 'pore-us,' as in having pores or tiny holes.",
+        "visual_representation": "Picture a sponge with many tiny holes, allowing water to pass through, symbolizing porosity.",
+        "example_sentence": "The porous rock allowed water to seep through easily."
+    },
+    {
+        "word": "Revoke",
+        "part_of_speech": "Verb",
+        "definition": "To officially cancel or withdraw (a decision, decree, or promise).",
+        "hindi_meaning": "रद्द करना, वापस लेना",
+        "mnemonic": "Revoke sounds like 're-voke,' as in to take back or cancel a vote or decision.",
+        "visual_representation": "Picture a driver's license being taken away or invalidated, symbolizing revocation.",
+        "example_sentence": "The government decided to revoke the controversial law after public outcry."
+    },
+    {
+        "word": "Spendthrift",
+        "part_of_speech": "Noun / Adjective",
+        "definition": "(Noun) A person who spends money in an extravagant, irresponsible way; (Adjective) Spending money recklessly or wastefully.",
+        "hindi_meaning": "फिजूलखर्च, अपव्ययी",
+        "mnemonic": "Spendthrift sounds like 'spend-thrift,' but it's the opposite—someone who isn't thrifty and spends recklessly.",
+        "visual_representation": "Picture someone throwing money in the air without any care, symbolizing a spendthrift.",
+        "example_sentence": "Being a spendthrift, he quickly ran out of money after his lottery win."
+    },
+    {
+        "word": "Truncate",
+        "part_of_speech": "Verb",
+        "definition": "To shorten something by cutting off the top or the end.",
+        "hindi_meaning": "छोटा करना, छाँटना",
+        "mnemonic": "Truncate sounds like 'trunk-cut,' as in cutting a tree trunk short.",
+        "visual_representation": "Picture a long branch being cut down to a shorter size, symbolizing truncation.",
+        "example_sentence": "The article was truncated to fit the space in the magazine."
+    }
+]

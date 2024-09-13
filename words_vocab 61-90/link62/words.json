@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Alias",
+        "part_of_speech": "Noun / Adverb",
+        "definition": "A false or assumed identity; used to indicate that a named person is also known or more familiar under another specified name.",
+        "hindi_meaning": "उपनाम, छद्म नाम",
+        "mnemonic": "Alias sounds like 'a-li-as,' as if someone has a different identity or name they go by.",
+        "visual_representation": "Picture a spy using a different name or identity, symbolizing an alias.",
+        "example_sentence": "The criminal used an alias to avoid being tracked by the authorities."
+    },
+    {
+        "word": "Brindled",
+        "part_of_speech": "Adjective",
+        "definition": "Having a gray or brown streak or a patchy coloring; especially used to describe the coat of an animal.",
+        "hindi_meaning": "धारीदार, चित्तीदार",
+        "mnemonic": "Brindled sounds like 'brin-dle,' indicating a pattern or mix of different colors, like brindled fur.",
+        "visual_representation": "Imagine a dog with a coat that has stripes of different colors, symbolizing brindled fur.",
+        "example_sentence": "The brindled cat blended in with the autumn leaves on the ground."
+    },
+    {
+        "word": "Cite",
+        "part_of_speech": "Verb",
+        "definition": "To quote as evidence for or justification of an argument or statement; to mention as an example.",
+        "hindi_meaning": "उद्धृत करना, हवाला देना",
+        "mnemonic": "Cite sounds like 'site,' as if pointing to a specific place or source for information.",
+        "visual_representation": "Picture a student quoting a book in their research paper, symbolizing citing a source.",
+        "example_sentence": "The professor cited several studies to support his argument."
+    },
+    {
+        "word": "Devotee",
+        "part_of_speech": "Noun",
+        "definition": "A person who is very interested in and enthusiastic about someone or something.",
+        "hindi_meaning": "भक्त, अनुयायी",
+        "mnemonic": "Devotee sounds like 'devote-e,' as if someone devoted to a cause or person.",
+        "visual_representation": "Imagine a fan who follows every aspect of a celebrity’s life, symbolizing a devotee.",
+        "example_sentence": "He is a devoted devotee of classical music, attending every concert in the area."
+    },
+    {
+        "word": "Erroneous",
+        "part_of_speech": "Adjective",
+        "definition": "Wrong; incorrect.",
+        "hindi_meaning": "गलत, त्रुटिपूर्ण",
+        "mnemonic": "Erroneous sounds like 'error-neous,' indicating something full of errors.",
+        "visual_representation": "Picture a math problem with incorrect calculations, symbolizing something erroneous.",
+        "example_sentence": "The report was based on erroneous information and had to be corrected."
+    },
+    {
+        "word": "Fraudulent",
+        "part_of_speech": "Adjective",
+        "definition": "Involving deception, especially criminal deception; intended to deceive.",
+        "hindi_meaning": "धोखाधड़ी, छलपूर्ण",
+        "mnemonic": "Fraudulent sounds like 'fraud-you-lent,' indicating something deceitful or dishonest.",
+        "visual_representation": "Imagine a fake ID used to deceive, symbolizing fraudulent activity.",
+        "example_sentence": "The company was found guilty of making fraudulent claims about its products."
+    },
+    {
+        "word": "Gorge",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it; to eat a large amount greedily.",
+        "hindi_meaning": "दर्रा, घाटी; पेट भरकर खाना",
+        "mnemonic": "Gorge sounds like 'gorge-e,' indicating a deep, narrow valley or the act of stuffing oneself with food.",
+        "visual_representation": "Picture a deep valley with a river running through it, or someone eating a huge feast, symbolizing a gorge.",
+        "example_sentence": "The hikers carefully made their way through the narrow gorge."
+    },
+    {
+        "word": "Hue",
+        "part_of_speech": "Noun",
+        "definition": "A color or shade.",
+        "hindi_meaning": "रंग, छाया",
+        "mnemonic": "Hue sounds like 'hue-blue,' indicating a particular color or shade.",
+        "visual_representation": "Imagine a painter’s palette with various colors and shades, symbolizing different hues.",
+        "example_sentence": "The sunset cast a beautiful pink hue over the mountains."
+    },
+    {
+        "word": "Indeterminate",
+        "part_of_speech": "Adjective",
+        "definition": "Not exactly known, established, or defined.",
+        "hindi_meaning": "अनिश्चित, अस्पष्ट",
+        "mnemonic": "Indeterminate sounds like 'in-determined,' indicating something not determined or clearly defined.",
+        "visual_representation": "Picture a blurry object that’s hard to identify, symbolizing something indeterminate.",
+        "example_sentence": "The cause of the illness is still indeterminate, and further tests are needed."
+    },
+    {
+        "word": "Larder",
+        "part_of_speech": "Noun",
+        "definition": "A room or large cupboard for storing food.",
+        "hindi_meaning": "रसोईघर, भंडार गृह",
+        "mnemonic": "Larder sounds like 'lard-er,' as in a place where food, like lard, is stored.",
+        "visual_representation": "Picture a pantry filled with shelves of canned goods, grains, and other food items, symbolizing a larder.",
+        "example_sentence": "The larder was stocked with enough food to last through the winter."
+    },
+    {
+        "word": "Momentum",
+        "part_of_speech": "Noun",
+        "definition": "The quantity of motion of a moving body, measured as a product of its mass and velocity; the impetus gained by a moving object.",
+        "hindi_meaning": "गतिक शक्ति, तेजी",
+        "mnemonic": "Momentum sounds like 'moment-um,' indicating the force or speed gained by movement.",
+        "visual_representation": "Imagine a rolling boulder picking up speed as it goes downhill, symbolizing momentum.",
+        "example_sentence": "The project gained momentum as more people became interested in it."
+    },
+    {
+        "word": "Outwit",
+        "part_of_speech": "Verb",
+        "definition": "To deceive or defeat by greater ingenuity.",
+        "hindi_meaning": "चालाकी से हराना, चाल चलना",
+        "mnemonic": "Outwit sounds like 'out-smart,' indicating using cleverness to outmaneuver someone.",
+        "visual_representation": "Picture a fox outsmarting a hunter by leading him in circles, symbolizing outwitting.",
+        "example_sentence": "The detective managed to outwit the criminal and solve the case."
+    },
+    {
+        "word": "Piecemeal",
+        "part_of_speech": "Adjective / Adverb",
+        "definition": "Done or made in a gradual way, in stages or pieces.",
+        "hindi_meaning": "टुकड़ा-टुकड़ा, क्रमिक",
+        "mnemonic": "Piecemeal sounds like 'piece-meal,' indicating something done bit by bit.",
+        "visual_representation": "Imagine a puzzle being put together one piece at a time, symbolizing a piecemeal approach.",
+        "example_sentence": "The new policy was introduced in a piecemeal fashion over several months."
+    },
+    {
+        "word": "Repudiate",
+        "part_of_speech": "Verb",
+        "definition": "To refuse to accept or be associated with; to deny the truth or validity of something.",
+        "hindi_meaning": "अस्वीकार करना, नकार देना",
+        "mnemonic": "Repudiate sounds like 're-pud-i-ate,' as if rejecting or denying something strongly.",
+        "visual_representation": "Picture someone pushing away a document they refuse to sign, symbolizing repudiation.",
+        "example_sentence": "He repudiated the allegations, insisting he was innocent."
+    },
+    {
+        "word": "Slither",
+        "part_of_speech": "Verb",
+        "definition": "To move smoothly over a surface, typically with a twisting or oscillating motion, like a snake.",
+        "hindi_meaning": "फिसलना, रेंगना",
+        "mnemonic": "Slither sounds like 'slip-there,' indicating sliding or moving in a smooth, snake-like manner.",
+        "visual_representation": "Picture a snake moving gracefully across the ground, symbolizing slithering.",
+        "example_sentence": "The snake slithered silently through the grass."
+    },
+    {
+        "word": "Turmoil",
+        "part_of_speech": "Noun",
+        "definition": "A state of great disturbance, confusion, or uncertainty.",
+        "hindi_meaning": "अशांति, उथल-पुथल",
+        "mnemonic": "Turmoil sounds like 'turn-oil,' as if things are churning and chaotic.",
+        "visual_representation": "Imagine a stormy sea with waves crashing everywhere, symbolizing turmoil.",
+        "example_sentence": "The country was in turmoil after the sudden resignation of the prime minister."
+    },
+    {
+        "word": "Voracious",
+        "part_of_speech": "Adjective",
+        "definition": "Wanting or devouring great quantities of food; having a very eager approach to an activity.",
+        "hindi_meaning": "भूखा, अतृप्त",
+        "mnemonic": "Voracious sounds like 'vor-ace-ious,' indicating an intense, almost greedy appetite for food or something else.",
+        "visual_representation": "Picture someone at a buffet, piling their plate high with food, symbolizing voracious hunger.",
+        "example_sentence": "He had a voracious appetite, eating everything in sight after the long hike."
+    }
+]

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Cards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f5f5f5;
+            flex-direction: column;
+        }
+        .card {
+            width: 350px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            text-align: center;
+            margin-bottom: 20px;
+            cursor: pointer;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .hidden {
+            display: none;
+        }
+        .notes-container {
+            margin-top: 20px;
+            width: 350px;
+            padding: 10px;
+            background-color: #e9ecef;
+            border-radius: 8px;
+            text-align: center;
+        }
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div id="cardContainer"></div>
+    <button id="nextButton">Next Card</button>
+
+    <!-- Notes Section -->
+    <div class="notes-container">
+        <h3>Add Your Notes</h3>
+        <textarea id="noteInput" placeholder="Write your notes here..."></textarea>
+        <button id="addNoteButton">Add Note</button>
+        <div id="notesList"></div>
+    </div>
+
+    <script>
+        let words = [];
+        let currentIndex = 0;
+        let flipTimeout;
+
+        const cardContainer = document.getElementById('cardContainer');
+        const nextButton = document.getElementById('nextButton');
+        const noteInput = document.getElementById('noteInput');
+        const notesList = document.getElementById('notesList');
+
+        // Function to fetch JSON data from words.json
+        async function fetchWords() {
+            try {
+                const response = await fetch('words.json');
+                words = await response.json();
+                drawNextCard(); // Display the first word
+            } catch (error) {
+                console.error('Error loading JSON:', error);
+            }
+        }
+
+        function displayWord(wordData) {
+            // Clear the card container and cancel any existing timeout
+            cardContainer.innerHTML = '';
+            clearTimeout(flipTimeout);
+
+            // Create elements
+            const card = document.createElement('div');
+            card.classList.add('card');
+
+            const wordElement = document.createElement('h2');
+            wordElement.textContent = wordData.word;
+            card.appendChild(wordElement);
+
+            const infoElement = document.createElement('div');
+            infoElement.classList.add('hidden');
+
+            const partOfSpeechElement = document.createElement('p');
+            partOfSpeechElement.textContent = `Part of Speech: ${wordData.part_of_speech}`;
+            infoElement.appendChild(partOfSpeechElement);
+
+            const definitionElement = document.createElement('p');
+            definitionElement.textContent = `Definition: ${wordData.definition}`;
+            infoElement.appendChild(definitionElement);
+
+            const mnemonicElement = document.createElement('p');
+            mnemonicElement.textContent = `Mnemonic: ${wordData.mnemonic}`;
+            infoElement.appendChild(mnemonicElement);
+
+            const visualElement = document.createElement('p');
+            visualElement.textContent = `Visual Representation: ${wordData.visual_representation}`;
+            infoElement.appendChild(visualElement);
+
+            const exampleElement = document.createElement('p');
+            exampleElement.textContent = `Example Sentence: ${wordData.example_sentence}`;
+            infoElement.appendChild(exampleElement);
+
+            const remainingElement = document.createElement('p');
+            remainingElement.textContent = `Remaining cards: ${words.length - currentIndex - 1}`;
+            infoElement.appendChild(remainingElement);
+
+            card.appendChild(infoElement);
+            cardContainer.appendChild(card);
+
+            // Set the timeout for automatic flipping
+            flipTimeout = setTimeout(() => {
+                infoElement.classList.remove('hidden');
+            }, 4000);
+
+            // Add event listener for immediate flip on click
+            card.addEventListener('click', () => {
+                infoElement.classList.remove('hidden');
+                clearTimeout(flipTimeout); // Cancel the timeout to avoid multiple reveals
+            });
+        }
+
+        function drawNextCard() {
+            if (currentIndex >= words.length) {
+                alert('All words have been displayed.');
+                nextButton.disabled = true;
+                return;
+            }
+
+            // Display the next word
+            displayWord(words[currentIndex]);
+            currentIndex++;
+        }
+
+        // Add note functionality
+        function addNote() {
+            const noteText = noteInput.value.trim();
+            if (noteText !== '') {
+                const noteElement = document.createElement('p');
+                noteElement.textContent = noteText;
+                notesList.appendChild(noteElement);
+                noteInput.value = ''; // Clear the input
+            } else {
+                alert('Please write something before adding.');
+            }
+        }
+
+        nextButton.addEventListener('click', drawNextCard);
+        document.getElementById('addNoteButton').addEventListener('click', addNote);
+
+        // Fetch words and display the first word when the page loads
+        fetchWords();
+    </script>
+</body>
+</html>

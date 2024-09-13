@@ -1,0 +1,155 @@
+[
+    {
+        "word": "Allocate",
+        "part_of_speech": "Verb",
+        "definition": "To distribute resources or duties for a particular purpose.",
+        "hindi_meaning": "आवंटित करना, बांटना",
+        "mnemonic": "Allocate sounds like 'all-locate,' as if locating or assigning all resources to specific places.",
+        "visual_representation": "Picture a manager distributing tasks among team members, symbolizing allocation.",
+        "example_sentence": "The budget committee will allocate funds to each department based on their needs."
+    },
+    {
+        "word": "Buccaneer",
+        "part_of_speech": "Noun",
+        "definition": "A pirate, originally referring to those who preyed on Spanish ships in the Caribbean during the 17th century; a daring, adventurous person.",
+        "hindi_meaning": "समुद्री डाकू, साहसी व्यक्ति",
+        "mnemonic": "Buccaneer sounds like 'buck-an-ear,' as if a pirate might take your ear as a trophy.",
+        "visual_representation": "Picture a pirate with a parrot on his shoulder, sailing the high seas, symbolizing a buccaneer.",
+        "example_sentence": "The buccaneer was feared across the Caribbean for his daring raids on treasure ships."
+    },
+    {
+        "word": "Clemency",
+        "part_of_speech": "Noun",
+        "definition": "Mercy; leniency granted to someone, especially by a person in authority.",
+        "hindi_meaning": "दया, क्षमाशीलता",
+        "mnemonic": "Clemency sounds like 'calm-en-see,' as if calming down and showing mercy.",
+        "visual_representation": "Picture a judge reducing a prisoner’s sentence out of compassion, symbolizing clemency.",
+        "example_sentence": "The governor granted clemency to the prisoner, commuting his death sentence to life imprisonment."
+    },
+    {
+        "word": "Discordant",
+        "part_of_speech": "Adjective",
+        "definition": "Disagreeing or incongruous; harsh and jarring because of a lack of harmony.",
+        "hindi_meaning": "असंगत, बेसुरा",
+        "mnemonic": "Discordant sounds like 'dis-cord-ant,' as if the cords or notes are out of harmony.",
+        "visual_representation": "Picture a band playing out of tune, with each instrument clashing with the others, symbolizing discordance.",
+        "example_sentence": "The discordant sounds of the badly tuned instruments hurt our ears."
+    },
+    {
+        "word": "Ethereal",
+        "part_of_speech": "Adjective",
+        "definition": "Extremely delicate and light in a way that seems too perfect for this world; heavenly or spiritual.",
+        "hindi_meaning": "अलौकिक, बहुत ही हल्का",
+        "mnemonic": "Ethereal sounds like 'ether-real,' as if something is so light and delicate it belongs in the ether or heavens.",
+        "visual_representation": "Picture a soft, glowing light surrounding a delicate angel, symbolizing something ethereal.",
+        "example_sentence": "The bride looked ethereal in her flowing white gown, like a vision from a dream."
+    },
+    {
+        "word": "Frolicsome",
+        "part_of_speech": "Adjective",
+        "definition": "Lively and playful.",
+        "hindi_meaning": "चंचल, खुशमिज़ाज",
+        "mnemonic": "Frolicsome sounds like 'frolic-some,' indicating someone who loves to frolic and play.",
+        "visual_representation": "Picture a group of puppies playing and chasing each other in a field, symbolizing frolicsome behavior.",
+        "example_sentence": "The frolicsome children laughed and played in the park all afternoon."
+    },
+    {
+        "word": "Grueling",
+        "part_of_speech": "Adjective",
+        "definition": "Extremely tiring and demanding.",
+        "hindi_meaning": "थकाऊ, कठिन",
+        "mnemonic": "Grueling sounds like 'gruel-ing,' as if something is so demanding it makes you feel like you’re eating gruel (a thin, tiring meal).",
+        "visual_representation": "Picture someone sweating and exhausted after a long, hard day of work, symbolizing a grueling task.",
+        "example_sentence": "The marathon was a grueling test of endurance and determination."
+    },
+    {
+        "word": "Harbor",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A sheltered place along the coast where ships can anchor safely; to give shelter or refuge; to keep (a thought or feeling, typically a negative one) in one’s mind.",
+        "hindi_meaning": "बंदरगाह, शरण देना",
+        "mnemonic": "Harbor sounds like 'har-bor,' indicating a safe place where boats or thoughts can be kept.",
+        "visual_representation": "Picture a calm bay with ships safely anchored, symbolizing a harbor.",
+        "example_sentence": "The small town harbored the refugees during the storm."
+    },
+    {
+        "word": "Indiscriminate",
+        "part_of_speech": "Adjective",
+        "definition": "Done at random or without careful judgment; lacking in selectivity.",
+        "hindi_meaning": "अंधाधुंध, बिना सोचे-समझे",
+        "mnemonic": "Indiscriminate sounds like 'in-dis-crim-inate,' as if not discriminating or selecting carefully.",
+        "visual_representation": "Picture someone throwing seeds randomly in a field without caring where they land, symbolizing indiscriminate action.",
+        "example_sentence": "The indiscriminate use of pesticides has led to environmental damage."
+    },
+    {
+        "word": "Lugubrious",
+        "part_of_speech": "Adjective",
+        "definition": "Looking or sounding sad and dismal.",
+        "hindi_meaning": "उदास, गमगीन",
+        "mnemonic": "Lugubrious sounds like 'loo-gloom-brious,' as if something is very gloomy or mournful.",
+        "visual_representation": "Picture someone with a long face, looking downcast and sorrowful, symbolizing lugubriousness.",
+        "example_sentence": "The lugubrious music at the funeral made everyone feel even more sorrowful."
+    },
+    {
+        "word": "Moodiness",
+        "part_of_speech": "Noun",
+        "definition": "Frequent changes in a person's mood or feelings; a tendency to be emotionally unstable or temperamental.",
+        "hindi_meaning": "मूडीपन, चिड़चिड़ापन",
+        "mnemonic": "Moodiness sounds like 'mood-y-ness,' indicating someone whose mood changes frequently.",
+        "visual_representation": "Picture someone quickly shifting from happy to sad to angry, symbolizing moodiness.",
+        "example_sentence": "Her moodiness made it difficult to predict how she would react to any given situation."
+    },
+    {
+        "word": "Obsequious",
+        "part_of_speech": "Adjective",
+        "definition": "Obedient or attentive to an excessive or servile degree.",
+        "hindi_meaning": "चापलूस, अति विनम्र",
+        "mnemonic": "Obsequious sounds like 'ob-seek-ious,' as if seeking to please someone excessively.",
+        "visual_representation": "Picture someone constantly bowing and agreeing with everything a boss says, symbolizing obsequious behavior.",
+        "example_sentence": "The obsequious assistant agreed with everything the manager said, hoping to gain favor."
+    },
+    {
+        "word": "Pique",
+        "part_of_speech": "Noun / Verb",
+        "definition": "A feeling of irritation or resentment resulting from a slight, especially to one’s pride; to stimulate interest or curiosity.",
+        "hindi_meaning": "नाराज़गी, क्रोध; उत्सुकता जगाना",
+        "mnemonic": "Pique sounds like 'peek,' as if peeking someone's interest or emotions, especially anger.",
+        "visual_representation": "Picture someone frowning after being insulted, symbolizing pique, or raising an eyebrow in curiosity.",
+        "example_sentence": "Her comments piqued his curiosity, making him want to know more."
+    },
+    {
+        "word": "Reserve",
+        "part_of_speech": "Noun / Verb",
+        "definition": "To keep back or save for future use; a supply of a commodity not needed for immediate use but available if required; a lack of warmth or openness in manner or expression.",
+        "hindi_meaning": "आरक्षित करना, भंडार; संकोच",
+        "mnemonic": "Reserve sounds like 're-serve,' as in serving something again later or holding something back.",
+        "visual_representation": "Picture a storage room full of supplies kept for future use, symbolizing a reserve, or someone holding back their emotions.",
+        "example_sentence": "She always keeps a reserve of extra cash for emergencies."
+    },
+    {
+        "word": "Smolder",
+        "part_of_speech": "Verb",
+        "definition": "To burn slowly with smoke but no flame; to show or feel barely suppressed anger, hatred, or another powerful emotion.",
+        "hindi_meaning": "धधकना, अंदर ही अंदर जलना",
+        "mnemonic": "Smolder sounds like 'smoke-older,' indicating something that’s burning with smoke but no flame, or someone simmering with emotion.",
+        "visual_representation": "Picture a log in a fire pit that’s glowing with heat but not bursting into flames, symbolizing smoldering.",
+        "example_sentence": "The ruins of the building continued to smolder long after the fire was extinguished."
+    },
+    {
+        "word": "Tangential",
+        "part_of_speech": "Adjective",
+        "definition": "Relating to or along a tangent; diverging from a previous course or line of thought, barely touching on the subject.",
+        "hindi_meaning": "प्रासंगिक, सतही",
+        "mnemonic": "Tangential sounds like 'tangent-ial,' indicating something that touches only lightly or goes off-topic.",
+        "visual_representation": "Picture a conversation that suddenly veers off-topic, barely related to the original discussion, symbolizing something tangential.",
+        "example_sentence": "His comments during the meeting were tangential and did not address the main issue."
+    },
+    {
+        "word": "Velocity",
+        "part_of_speech": "Noun",
+        "definition": "The speed of something in a given direction.",
+        "hindi_meaning": "वेग, गति",
+        "mnemonic": "Velocity sounds like 'velo-city,' indicating speed or the rate of motion.",
+        "visual_representation": "Picture a fast-moving car speeding down a highway, symbolizing velocity.",
+        "example_sentence": "The velocity of the wind increased dramatically as the storm approached."
+    }
+]

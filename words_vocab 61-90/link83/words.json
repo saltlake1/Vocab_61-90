@@ -1,0 +1,128 @@
+[
+    {
+        "word": "Amphitheater",
+        "part_of_speech": "Noun",
+        "definition": "An open, circular or oval building with a central space surrounded by tiers of seats, used for public events.",
+        "hindi_meaning": "गोल या अंडाकार स्टेडियम, रंगभूमि",
+        "mnemonic": "Amphitheater sounds like 'amphi-theater,' indicating a large, open theater with seating all around.",
+        "visual_representation": "Picture a large, circular stadium with rows of seats rising around a central stage, symbolizing an amphitheater.",
+        "example_sentence": "The ancient Roman amphitheater was used for gladiator contests and public spectacles."
+    },
+    {
+        "word": "Belated",
+        "part_of_speech": "Adjective",
+        "definition": "Coming or happening later than should have been the case.",
+        "hindi_meaning": "विलम्बित, देर से आया हुआ",
+        "mnemonic": "Belated sounds like 'be-late-ed,' indicating something that is delayed or late.",
+        "visual_representation": "Picture a birthday card arriving after the birthday has passed, symbolizing something belated.",
+        "example_sentence": "He sent a belated apology after realizing his mistake."
+    },
+    {
+        "word": "Collusion",
+        "part_of_speech": "Noun",
+        "definition": "Secret or illegal cooperation or conspiracy, especially in order to cheat or deceive others.",
+        "hindi_meaning": "साठगांठ, गुप्त समझौता",
+        "mnemonic": "Collusion sounds like 'co-illusion,' as in creating a joint illusion or deception.",
+        "visual_representation": "Picture two people whispering and plotting together, symbolizing collusion.",
+        "example_sentence": "The investigation uncovered collusion between the company and the regulators."
+    },
+    {
+        "word": "Dispatch",
+        "part_of_speech": "Verb / Noun",
+        "definition": "(Verb) To send off to a destination or for a purpose; to deal with quickly and efficiently; (Noun) The sending of someone or something to a destination; an official report on state or military affairs.",
+        "hindi_meaning": "भेजना, त्वरित रूप से निपटाना; प्रेषण, आधिकारिक रिपोर्ट",
+        "mnemonic": "Dispatch sounds like 'dis-patch,' as in sending off or handling quickly.",
+        "visual_representation": "Picture a messenger quickly delivering an important message, symbolizing dispatch.",
+        "example_sentence": "The general dispatched troops to the front lines."
+    },
+    {
+        "word": "Exhilarating",
+        "part_of_speech": "Adjective",
+        "definition": "Making one feel very happy, animated, or elated; thrilling.",
+        "hindi_meaning": "रोमांचक, उत्साहजनक",
+        "mnemonic": "Exhilarating sounds like 'excel-rating,' as in something that excites and energizes.",
+        "visual_representation": "Picture someone on a roller coaster, feeling a rush of excitement and joy, symbolizing exhilaration.",
+        "example_sentence": "The exhilarating ride left them all laughing and cheering."
+    },
+    {
+        "word": "Finesse",
+        "part_of_speech": "Noun / Verb",
+        "definition": "(Noun) Intricate and refined delicacy; (Verb) To do something in a subtle and delicate manner.",
+        "hindi_meaning": "कुशलता, चतुराई; निपुणता से करना",
+        "mnemonic": "Finesse sounds like 'fine-ness,' indicating skillful and delicate handling.",
+        "visual_representation": "Picture a skilled artist carefully adding delicate details to a painting, symbolizing finesse.",
+        "example_sentence": "She handled the negotiations with great finesse, ensuring both sides were satisfied."
+    },
+    {
+        "word": "Garner",
+        "part_of_speech": "Verb",
+        "definition": "To gather or collect (something, especially information or approval).",
+        "hindi_meaning": "प्राप्त करना, संग्रह करना",
+        "mnemonic": "Garner sounds like 'gather,' indicating collecting or accumulating something.",
+        "visual_representation": "Picture someone collecting information and putting it into a file, symbolizing garnering.",
+        "example_sentence": "He garnered widespread support for his new policy proposal."
+    },
+    {
+        "word": "Infuriate",
+        "part_of_speech": "Verb",
+        "definition": "To make (someone) extremely angry and impatient.",
+        "hindi_meaning": "क्रोधित करना, भड़काना",
+        "mnemonic": "Infuriate sounds like 'in-fury-ate,' as in causing someone to eat or feel fury.",
+        "visual_representation": "Picture someone turning red with anger, clenching their fists, symbolizing infuriation.",
+        "example_sentence": "His careless remarks infuriated the entire team."
+    },
+    {
+        "word": "Limber",
+        "part_of_speech": "Adjective / Verb",
+        "definition": "(Adjective) Flexible; (Verb) To warm up in preparation for exercise or activity, especially sports.",
+        "hindi_meaning": "लचीला, सुगठित; व्यायाम करना",
+        "mnemonic": "Limber sounds like 'limb-er,' indicating someone who can move their limbs flexibly.",
+        "visual_representation": "Picture a gymnast stretching and bending easily, symbolizing limberness.",
+        "example_sentence": "The dancers performed a series of stretches to keep themselves limber before the show."
+    },
+    {
+        "word": "Myopic",
+        "part_of_speech": "Adjective",
+        "definition": "Lacking imagination, foresight, or intellectual insight; nearsighted.",
+        "hindi_meaning": "नज़दीक का देखने वाला, सीमित दृष्टि वाला",
+        "mnemonic": "Myopic sounds like 'my-optic,' indicating a focus on what is immediately near without seeing the bigger picture.",
+        "visual_representation": "Picture someone with glasses struggling to see far-off objects, symbolizing myopia in both a literal and figurative sense.",
+        "example_sentence": "The company’s myopic focus on short-term profits led to long-term problems."
+    },
+    {
+        "word": "Pomposity",
+        "part_of_speech": "Noun",
+        "definition": "The quality of being pompous; self-importance; an excessive sense of dignity or seriousness.",
+        "hindi_meaning": "घमंड, दिखावा",
+        "mnemonic": "Pomposity sounds like 'pomp-osity,' indicating an overly grand and self-important manner.",
+        "visual_representation": "Picture someone speaking with exaggerated seriousness and self-importance, symbolizing pomposity.",
+        "example_sentence": "His speech was full of pomposity, making him sound more arrogant than wise."
+    },
+    {
+        "word": "Reverent",
+        "part_of_speech": "Adjective",
+        "definition": "Feeling or showing deep and solemn respect.",
+        "hindi_meaning": "आदरपूर्ण, श्रद्धापूर्ण",
+        "mnemonic": "Reverent sounds like 'reverence,' indicating a deep respect.",
+        "visual_representation": "Picture someone bowing their head in a moment of silent respect, symbolizing reverence.",
+        "example_sentence": "The crowd remained reverent during the solemn ceremony."
+    },
+    {
+        "word": "Spatula",
+        "part_of_speech": "Noun",
+        "definition": "A broad, flat, usually flexible blade used for mixing, spreading, or lifting food.",
+        "hindi_meaning": "पटिया, चपटा औज़ार",
+        "mnemonic": "Spatula sounds like 'spat-you-la,' as in a flat tool used in cooking.",
+        "visual_representation": "Picture a chef using a spatula to flip pancakes, symbolizing its use in cooking.",
+        "example_sentence": "She used a spatula to spread the frosting evenly on the cake."
+    },
+    {
+        "word": "Trenchant",
+        "part_of_speech": "Adjective",
+        "definition": "Vigorous or incisive in expression or style; sharply effective or insightful.",
+        "hindi_meaning": "तीखा, धारदार, प्रभावी",
+        "mnemonic": "Trenchant sounds like 'trench-ant,' as in digging deep or cutting sharply into something.",
+        "visual_representation": "Picture a sharp knife cutting cleanly through something tough, symbolizing trenchant commentary or analysis.",
+        "example_sentence": "His trenchant criticism of the government’s policies made him a powerful voice in the debate."
+    }
+]

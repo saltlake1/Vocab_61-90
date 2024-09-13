@@ -1,0 +1,128 @@
+[
+    {
+        "word": "Analogy",
+        "part_of_speech": "Noun",
+        "definition": "A comparison between two things, typically for the purpose of explanation or clarification.",
+        "hindi_meaning": "समानता, उपमा",
+        "mnemonic": "Analogy sounds like 'analyze-gy,' as in analyzing how two things are similar.",
+        "visual_representation": "Picture a teacher explaining a difficult concept by comparing it to something familiar, symbolizing an analogy.",
+        "example_sentence": "The teacher used an analogy between the human brain and a computer to help students understand how memory works."
+    },
+    {
+        "word": "Bestial",
+        "part_of_speech": "Adjective",
+        "definition": "Of or like an animal; savagely cruel and depraved.",
+        "hindi_meaning": "पशु जैसा, क्रूर",
+        "mnemonic": "Bestial sounds like 'beast-ial,' as in something beast-like or savage.",
+        "visual_representation": "Picture a wild, fierce animal attacking its prey, symbolizing bestial behavior.",
+        "example_sentence": "The soldiers were shocked by the bestial violence they encountered on the battlefield."
+    },
+    {
+        "word": "Commensurate",
+        "part_of_speech": "Adjective",
+        "definition": "Corresponding in size or degree; in proportion.",
+        "hindi_meaning": "समानुपातिक, तुलनीय",
+        "mnemonic": "Commensurate sounds like 'co-measure-ate,' as in measuring or corresponding to something equally.",
+        "visual_representation": "Picture a balance scale with equal weights on both sides, symbolizing commensuration.",
+        "example_sentence": "His salary was commensurate with his experience and skills."
+    },
+    {
+        "word": "Disseminate",
+        "part_of_speech": "Verb",
+        "definition": "To spread or disperse (something, especially information) widely.",
+        "hindi_meaning": "फैलाना, प्रचार करना",
+        "mnemonic": "Disseminate sounds like 'dis-seminate,' as in spreading seeds (information) widely.",
+        "visual_representation": "Picture a farmer scattering seeds across a wide field, symbolizing the dissemination of information.",
+        "example_sentence": "The organization aims to disseminate knowledge about health and hygiene to remote villages."
+    },
+    {
+        "word": "Exotic",
+        "part_of_speech": "Adjective",
+        "definition": "Originating in or characteristic of a distant foreign country; unusual or strikingly different.",
+        "hindi_meaning": "विदेशी, असामान्य",
+        "mnemonic": "Exotic sounds like 'ex-otic,' as in something outside of the ordinary or from a faraway place.",
+        "visual_representation": "Picture a rare, brightly colored flower from a distant land, symbolizing exoticism.",
+        "example_sentence": "The restaurant offered a variety of exotic dishes from around the world."
+    },
+    {
+        "word": "Flourish",
+        "part_of_speech": "Verb / Noun",
+        "definition": "(Verb) To grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment; (Noun) A bold or extravagant gesture or action.",
+        "hindi_meaning": "फलना-फूलना, समृद्ध होना; शोभा",
+        "mnemonic": "Flourish sounds like 'flower-ish,' as in something growing and thriving like a flower.",
+        "visual_representation": "Picture a plant thriving and blooming in a garden, symbolizing flourishing.",
+        "example_sentence": "The business began to flourish after they launched their new product line."
+    },
+    {
+        "word": "Glaring",
+        "part_of_speech": "Adjective",
+        "definition": "Extremely obvious or conspicuous; shining with a strong or harsh light.",
+        "hindi_meaning": "स्पष्ट, चकाचौंध करने वाला",
+        "mnemonic": "Glaring sounds like 'glare-ing,' as in something that is so bright or obvious it’s hard to ignore.",
+        "visual_representation": "Picture a bright spotlight shining directly in someone's eyes, symbolizing glaring.",
+        "example_sentence": "The glaring mistake in the report was impossible to overlook."
+    },
+    {
+        "word": "Inherent",
+        "part_of_speech": "Adjective",
+        "definition": "Existing in something as a permanent, essential, or characteristic attribute.",
+        "hindi_meaning": "निहित, स्वाभाविक",
+        "mnemonic": "Inherent sounds like 'in-here-ent,' as in something that is naturally part of something else.",
+        "visual_representation": "Picture the rings inside a tree trunk, representing the inherent qualities that have been there since it began to grow.",
+        "example_sentence": "The risk of injury is inherent in extreme sports."
+    },
+    {
+        "word": "Lull",
+        "part_of_speech": "Verb / Noun",
+        "definition": "(Verb) To calm or send to sleep, typically with soothing sounds or movements; (Noun) A temporary interval of quiet or lack of activity.",
+        "hindi_meaning": "शांत करना, विश्राम देना; शांत अवधि",
+        "mnemonic": "Lull sounds like 'lullaby,' as in a soothing song to put someone to sleep.",
+        "visual_representation": "Picture a mother gently rocking her baby to sleep, symbolizing a lull.",
+        "example_sentence": "There was a brief lull in the storm, giving them time to go outside and inspect the damage."
+    },
+    {
+        "word": "Malfeasance",
+        "part_of_speech": "Noun",
+        "definition": "Wrongdoing, especially by a public official.",
+        "hindi_meaning": "कदाचार, अपराध",
+        "mnemonic": "Malfeasance sounds like 'mal-fee-sense,' as in a bad sense of responsibility leading to wrongdoing.",
+        "visual_representation": "Picture a corrupt official taking a bribe, symbolizing malfeasance.",
+        "example_sentence": "The mayor was accused of malfeasance after it was discovered that he had been embezzling city funds."
+    },
+    {
+        "word": "Poseur",
+        "part_of_speech": "Noun",
+        "definition": "A person who pretends to be what they are not, or to have qualities or beliefs that they do not really have.",
+        "hindi_meaning": "दिखावटी व्यक्ति, बहुरूपिया",
+        "mnemonic": "Poseur sounds like 'poser,' indicating someone who poses or pretends to be something they're not.",
+        "visual_representation": "Picture someone dressing and acting like an artist without actually having any artistic skills, symbolizing a poseur.",
+        "example_sentence": "He was exposed as a poseur who only pretended to care about the environment for publicity."
+    },
+    {
+        "word": "Rhetorical",
+        "part_of_speech": "Adjective",
+        "definition": "Relating to or concerned with the art of rhetoric; expressed in terms intended to persuade or impress.",
+        "hindi_meaning": "भाषण कला संबंधी, अलंकारिक",
+        "mnemonic": "Rhetorical sounds like 'rhetoric-al,' as in something related to persuasive speaking or writing.",
+        "visual_representation": "Picture a speaker using eloquent language and persuasive techniques to sway an audience, symbolizing rhetorical skills.",
+        "example_sentence": "The question was rhetorical, meant to make a point rather than to elicit an answer."
+    },
+    {
+        "word": "Sporadic",
+        "part_of_speech": "Adjective",
+        "definition": "Occurring at irregular intervals or only in a few places; scattered or isolated.",
+        "hindi_meaning": "अनियमित, छिटपुट",
+        "mnemonic": "Sporadic sounds like 'spore-addic,' as in something that appears randomly like spores.",
+        "visual_representation": "Picture rain falling in isolated patches across a field, symbolizing sporadic rainfall.",
+        "example_sentence": "The sporadic outbreaks of violence made it difficult to maintain peace in the region."
+    },
+    {
+        "word": "Typhoon",
+        "part_of_speech": "Noun",
+        "definition": "A tropical storm in the region of the Indian or western Pacific oceans.",
+        "hindi_meaning": "चक्रवात, तूफान",
+        "mnemonic": "Typhoon sounds like 'tie-foon,' as in a powerful storm that ties down everything in its path.",
+        "visual_representation": "Picture a massive storm with strong winds and heavy rain, symbolizing a typhoon.",
+        "example_sentence": "The coastal city was severely damaged by the typhoon that hit last night."
+    }
+]
